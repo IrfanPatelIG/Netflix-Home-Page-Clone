@@ -1,10 +1,11 @@
 # 📺 **Netflix Home Page Clone**
 
-This project is a **responsive clone of the Netflix home page**, built using **HTML** and **CSS**. It replicates the layout, design, and visual elements of the official Netflix landing page, including the hero section, background image with overlay, navigation bar, sign-in button, and call-to-action content.
+This project is a **responsive clone of the Netflix home page**, built using **HTML**, **CSS** and **JavaScript**. It replicates the layout, design, and visual elements of the official Netflix landing page, including the hero section, background image with overlay, navigation bar, sign-in button, and call-to-action content.
 
 ## 🛠️ **Skills Used**
 - **HTML5** – for structuring the webpage content  
 - **CSS3** – for styling, layout design, and responsiveness
+- **JavaScript** - for FAQs section cards handling
 
 ## 🎯 **Features**
 - Clean and structured layout  
